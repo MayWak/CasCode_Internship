@@ -1,2 +1,11 @@
 # CasCode_Internship
-This is my work as a UI/UX intern in CasCode.
+This is my work as a UI/UX intern in CasCode.   
+   
+.
+    
+**TASK 1:** Create a prototype for any user flow.  
+-> I created a high-fidelity prototype of a Flower Catalogue & Delivery App named **FLORA** showcasing its userflow.  
+-> Below here is the link for the prototype:  
+https://www.figma.com/proto/99tzmj70S6o4HQ4cxrsTYr/Flower-Delivery?node-id=6%3A15&scaling=scale-down&page-id=0%3A1&starting-point-node-id=6%3A15
+   
+  
