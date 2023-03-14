@@ -14,3 +14,10 @@ https://www.figma.com/proto/99tzmj70S6o4HQ4cxrsTYr/Flower-Delivery?node-id=6%3A1
 -> I designed a landing page for a Digital Agency named **DigitGency** that offers various services.  
 -> Below here is the link for the design:  
 https://www.figma.com/proto/vHpqrcxW27QEp7CqojHcn2/Landing-Page?node-id=3%3A132&scaling=min-zoom&page-id=3%3A131
+
+.
+
+**TASK 3:** Create a dashboard design of any data.   
+-> I created a dashboard of my monthly expenditure from 1st March to 15th March 2023.
+-> Below here is the link for the dashboard:
+https://www.figma.com/proto/cQsHrkCIwKzHL9Bup12xdJ/Dashboard?node-id=0%3A3&scaling=contain&page-id=0%3A1
