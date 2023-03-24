@@ -21,3 +21,10 @@ https://www.figma.com/proto/vHpqrcxW27QEp7CqojHcn2/Landing-Page?node-id=3%3A132&
 -> I created a dashboard of my monthly expenditure from 1st March to 15th March, 2023.   
 -> Below here is the link for the dashboard:   
 https://www.figma.com/proto/cQsHrkCIwKzHL9Bup12xdJ/Dashboard?node-id=0%3A3&scaling=contain&page-id=0%3A1
+
+.
+
+**Task 4:** Create a Social Media App Design.      
+-> I created a fully functioning design of a social media app.   
+-> Below here is the link for the design:   
+https://www.figma.com/proto/CKKI8cS2HKOaIR85GkKJGi/Social-Media-App-Design?node-id=87-1132&scaling=scale-down&page-id=55%3A2497&starting-point-node-id=87%3A9
