@@ -25,6 +25,6 @@ https://www.figma.com/proto/cQsHrkCIwKzHL9Bup12xdJ/Dashboard?node-id=0%3A3&scali
 .
 
 **Task 4:** Create a Social Media App Design.      
--> I created a fully functioning design of a social media app.   
+-> I created a fully functioning design of a social media app named "Society!!".   
 -> Below here is the link for the design:   
 https://www.figma.com/proto/CKKI8cS2HKOaIR85GkKJGi/Social-Media-App-Design?node-id=87-1132&scaling=scale-down&page-id=55%3A2497&starting-point-node-id=87%3A9
